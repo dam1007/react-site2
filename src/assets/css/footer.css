@@ -37,19 +37,19 @@
     width: 45px;
     height: 45px;
     border-radius: 100%;
-    background: #f5f5f5 url(../img/facebook.svg) no-repeat 50% 50%;
+    background: #f5f5f5 url(../img/facebook.png) no-repeat 50% 50%;
 }
 #footer .footer-left .sns li:nth-child(2) a {
-    background-image: url(../img/instagram.svg);
+    background-image: url(../img/instagram.png);
 }
 #footer .footer-left .sns li:nth-child(3) a {
-    background-image: url(../img/youtube.svg);
+    background-image: url(../img/youtube.png);
 }
 #footer .footer-left .sns li:nth-child(4) a {
-    background-image: url(../img/git.svg);
+    background-image: url(../img/git.png);
 }
 #footer .footer-left .sns li:nth-child(5) a {
-    background-image: url(../img/link.svg);
+    background-image: url(../img/link.png);
 }
 
 #footer .footer-right {

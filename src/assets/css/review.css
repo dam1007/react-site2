@@ -46,6 +46,7 @@
 #review ul li .user .user-right .name {
     font-size: 26px;
     font-weight: 500;
+    margin-right: 10px;
 }
 #review ul li .user .user-right .star {
     height: 15px;

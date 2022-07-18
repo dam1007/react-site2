@@ -10,21 +10,21 @@ function Image() {
             </div>
             <div className="cont">
               <article>
-                <figure><img src="assets/img/photo01.svg" alt="프로필사진1"/></figure>
+                <figure><img src="assets/img/photo01.jpg" alt="프로필사진1"/></figure>
                 <figcaption>
                   <p>한승진 / 전문반</p>
                   <a href="/">자세히 보기</a>
                 </figcaption>
               </article>
               <article>
-                <figure><img src="assets/img/photo02.svg" alt="프로필사진2"/></figure>
+                <figure><img src="assets/img/photo02.jpg" alt="프로필사진2"/></figure>
                 <figcaption>
                   <p>박상현 / 입시반</p>
                   <a href="/">자세히 보기</a>
                 </figcaption>
               </article>
               <article>
-                <figure><img src="assets/img/photo03.svg" alt="프로필사진3"/></figure>
+                <figure><img src="assets/img/photo03.jpg" alt="프로필사진3"/></figure>
                 <figcaption>
                   <p>우지현 / 전문반</p>
                   <a href="/">자세히 보기</a>

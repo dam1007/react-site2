@@ -24,7 +24,6 @@ function App() {
         <Review />
       </Main>
       <Footer />
-      
     </>
     
 
